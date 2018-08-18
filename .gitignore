@@ -63,3 +63,6 @@ fabric.properties
 .idea/modules.xml
 .idea/startbootstrap-resume.iml
 .idea/vcs.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/jsLinters/jshint.xml
+.idea/resume.iml
